@@ -1,4 +1,4 @@
-function [Z_Bus, Y_Bus] = e230438_con_ZBus(file_path)
+function [Z_Bus, Y_Bus] = zbus_formation(file_path)
     %--------------------------------------------------------------------------
     % This Section Reads the Data and Converts It to Desired Format 
     %--------------------------------------------------------------------------
